@@ -35,4 +35,7 @@ body {
 .menu-lateral {
     display: flex;
     flex-direction: column;
+    background-color: #15191C;
+    width: 75vw;
+    height: 100vh;
 }
