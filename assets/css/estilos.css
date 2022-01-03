@@ -138,3 +138,8 @@ body {
     align-items: center;
     color: #95999C;
 }
+
+.cartao__info--tempo {
+    content: "\e90c";
+    margin-right: 8px;
+}
