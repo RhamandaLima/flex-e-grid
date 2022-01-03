@@ -143,3 +143,8 @@ body {
     content: "\e90c";
     margin-right: 8px;
 }
+
+.cartao__info--visualizacao {
+    content: "\e90f";
+    margin-right: 8px;
+}
