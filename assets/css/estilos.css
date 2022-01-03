@@ -147,12 +147,12 @@ body {
     color: #95999C;
 }
 
-.cartao__info--tempo {
+.cartao__info--tempo::before {
     content: "\e90c";
     margin-right: 8px;
 }
 
-.cartao__info--visualizacao {
+.cartao__info--visualizacao::before {
     content: "\e90f";
     margin-right: 8px;
 }
