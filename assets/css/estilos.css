@@ -118,3 +118,7 @@ body {
     overflow: hidden;
     background-color: #2C343A;
 }
+
+.cartao__conteudo {
+    padding: 16px;
+}
