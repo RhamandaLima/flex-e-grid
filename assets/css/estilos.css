@@ -132,3 +132,9 @@ body {
     color: #95999C;
     font-size: 0.9rem;
 }
+
+.cartao__info {
+    display: flex;
+    align-items: center;
+    color: #95999C;
+}
