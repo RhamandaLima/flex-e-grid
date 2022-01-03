@@ -121,6 +121,8 @@ body {
 
 .cartao__conteudo {
     padding: 16px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
 }
 
 .cartao__titulo {
