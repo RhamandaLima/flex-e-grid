@@ -111,3 +111,10 @@ body {
     font-size: 1.5rem;
     font-weight: 700;
 }
+
+.cartao {
+    width: 100%;
+    border-radius: 15px;
+    overflow: hidden;
+    background-color: #2C343A;
+}
