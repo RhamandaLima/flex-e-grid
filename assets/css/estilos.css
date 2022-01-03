@@ -159,3 +159,8 @@ body {
     border-radius: 10px;
     font-size: 0.9rem;
 }
+
+.cartao__botao--play {
+    content: "\e90b";
+    font-size: 24px;
+}
