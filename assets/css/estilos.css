@@ -121,6 +121,10 @@ body {
     background-color: #2C343A;
 }
 
+.cartao--destaque {
+    margin-bottom: 16px;
+}
+
 .cartao__conteudo {
     padding: 16px;
     display: grid;
