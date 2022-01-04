@@ -185,6 +185,15 @@ body {
     font-weight: 700;
 }
 
+@media screen and (min-width: 1440px) {
+    .principal {
+        display: grid;
+        grid-template-columns: auto 1fr auto;
+        column-gap: 32px;
+        padding: 16px 60px;
+    }
+}
+
 .cartao {
     width: 100%;
     border-radius: 15px;
